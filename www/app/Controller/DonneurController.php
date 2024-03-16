@@ -1,6 +1,5 @@
 <?php
-
-//namespace App\Controller;
+namespace App\Controller;
 
 use App\Views\ViewManager;
 use App\Repository\DonneurRepository;
