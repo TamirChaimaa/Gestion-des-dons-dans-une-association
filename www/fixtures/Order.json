@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "date_commande": "2023-11-14T10:29:00.000Z",
+      "client":{
+        "id": 1,
+        "name": "Dupont"
+      
+      }
+    
+    },
+    {
+      "id": 2,
+      "date_commande": "2023-11-15T11:30:00.000Z",
+      "client_id":  {
+        "id": 2,
+        "name": "Martin"
+        
+      } 
+      
+    }
+  ]
+  

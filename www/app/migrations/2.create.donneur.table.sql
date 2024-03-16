@@ -1,0 +1,5 @@
+CREATE TABLE Donneur (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  namedonneur VARCHAR(255) NOT NULL,
+  numtelephone VARCHAR(255) NOT NULL
+);
